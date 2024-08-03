@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "akd_studio_music_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Musical bug")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "moxasong")
+ASSUSERNAME = getenv("ASSUSERNAME" , "moxapoem")
 # ---------------------------------------------------------
 
 
